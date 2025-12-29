@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/monokai.png" alt="Monokai Ristretto Theme" />
+</p>
+
 # Monokai Ristretto
 
 A warm, coffee-inspired dark theme for Zen Browser based on the Monokai Pro Ristretto color palette.
@@ -29,7 +33,7 @@ Install from [Zen Mods](https://zen-browser.app/mods/) or manually:
 1. Open `about:support` in Zen Browser
 2. Click "Open Profile Folder"
 3. Create a `chrome` folder if it doesn't exist
-4. Copy `chrome.css` as `userChrome.css`
+4. Copy `css/chrome.css` as `userChrome.css`
 5. Restart Zen Browser
 
 ## Requirements
